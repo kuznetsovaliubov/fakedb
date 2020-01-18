@@ -9,9 +9,14 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "liubov"
   },
   "family": [
-    { "id": 1, "title": "hasbend", "firstName": "Leonid", "age": 26 }
+    { 
+      "id": 1, 
+      "title": "hasbend", 
+      "firstName": "Leonid", 
+      "age": 26 
+    }
   ]
 }
