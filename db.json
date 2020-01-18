@@ -12,11 +12,8 @@
     "name": "liubov"
   },
   "family": [
-    { 
-      "id": 1, 
-      "title": "hasbend", 
-      "firstName": "Leonid", 
-      "age": 26 
-    }
-  ]
+    { "id": 1, "title": "hasbend" },
+    { "id": 2, "title": "mother" },
+    { "id": 3, "title": "father" }
+  ],
 }
